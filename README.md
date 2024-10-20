@@ -15,6 +15,8 @@ Supplementary Figure and Documents containing raw data outputs and outputs utili
 # Description of Figure and Documents
 
 * Supplementary Figure 1. Control only principal component analysis (PCA) before (A) and after (B) batch removal. PCA of controls and cancer samples (n=135) before (C) and after (D) batch removal correction.
+  
+* Supplementary Table 1. Muscle weights (mg) and P-values for sequenced subsets in LLC and KPC models. Raw muscle weights were difficult to approximate for KPC from the original bar graphs, so percent loss is reported instead. For C26 and Apcmin/+, a nonparametric two-tailed t-test comparing cancer vs. control was performed on subsets from previously published cohorts, with significance set at P < 0.05. NS: not significant. 
 
 * Supplementary Document 1. Summary data of ANOVA differential expression analysis for integrated early and late cachexia
 
